@@ -1,3 +1,5 @@
 .ruby-version
 Gemfile
 Gemfile.lock
+logs/access.log
+logs/error.log
